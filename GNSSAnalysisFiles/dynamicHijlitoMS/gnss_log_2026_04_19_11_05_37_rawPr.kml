@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>gnss_log_2026_04_19_11_05_37_rawPr.kml</name>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>Line 1</name>
+      <Style>
+        <LineStyle>
+          <color>80ffffff</color>
+        </LineStyle>
+      </Style>
+      <LineString>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 87.3236624253187,22.3163577621121,0 87.3236535509111,22.316338516641,0 87.323612927679,22.3163774241157,0 87.3236050374304,22.3163894339712,0 87.3236104186444,22.3164137195898,0 87.3235821122776,22.3164017373812,0 87.3236035300653,22.3164357889478,0 87.3235479866822,22.3164809041556,0 87.3235216644632,22.3164471572897,0 87.3233323152695,22.3164335538634,0 87.3233275216401,22.3164664538856,0 87.3235263686873,22.3164966426623,0 87.3234317012538,22.3165213294397,0 87.3234606706562,22.3166427199411,0 87.323439869911,22.3166282041698,0 87.3232463985574,22.3163625464423,0 87.3233538862061,22.3166931514473,0 87.3233056832149,22.3165842625277,0 87.323171402536,22.3166060927294,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>1
+UTC 19-04-2026 05:35:37.42
+GpsMilliseconds 1460612155418
+22.3163578,87.3236624, EA(3m)
+AltWgs84 -3.4 m, EA(7m)
+Hdg 298 deg, Spd 0.3 m/s
+EA(52.8 deg, 3.9 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf3744db</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>87.3236624253187,22.3163577621121,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>2
+UTC 19-04-2026 05:35:38.42
+GpsMilliseconds 1460612156418
+22.3163385,87.3236536, EA(3m)
+AltWgs84 -0.5 m, EA(7m)
+Hdg 314 deg, Spd 0.6 m/s
+EA(35.4 deg, 3.3 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf3744db</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>87.3236535509111,22.316338516641,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>3
+UTC 19-04-2026 05:35:39.42
+GpsMilliseconds 1460612157418
+22.3163774,87.3236129, EA(3m)
+AltWgs84 -7.8 m, EA(7m)
+Hdg 302 deg, Spd 1.4 m/s
+EA(50.3 deg, 4.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf3744db</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>87.323612927679,22.3163774241157,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>4
+UTC 19-04-2026 05:35:40.42
+GpsMilliseconds 1460612158418
+22.3163894,87.3236050, EA(3m)
+AltWgs84 4.6 m, EA(7m)
+Hdg 308 deg, Spd 1.6 m/s
+EA(50.1 deg, 3.8 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf3744db</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>87.3236050374304,22.3163894339712,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>5
+UTC 19-04-2026 05:35:41.42
+GpsMilliseconds 1460612159418
+22.3164137,87.3236104, EA(3m)
+AltWgs84 -4.6 m, EA(7m)
+Hdg 298 deg, Spd 1.9 m/s
+EA(59.8 deg, 11.1 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf3744db</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>87.3236104186444,22.3164137195898,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>6
+UTC 19-04-2026 05:35:42.42
+GpsMilliseconds 1460612160418
+22.3164017,87.3235821, EA(3m)
+AltWgs84 -4.8 m, EA(7m)
+Hdg 303 deg, Spd 2.5 m/s
+EA(71.6 deg, 9.1 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf3744db</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>87.3235821122776,22.3164017373812,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>7
+UTC 19-04-2026 05:35:43.42
+GpsMilliseconds 1460612161418
+22.3164358,87.3236035, EA(3m)
+AltWgs84 0.2 m, EA(7m)
+Hdg 307 deg, Spd 2.1 m/s
+EA(58.8 deg, 29.7 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf3744db</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>87.3236035300653,22.3164357889478,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>8
+UTC 19-04-2026 05:35:44.42
+GpsMilliseconds 1460612162418
+22.3164809,87.3235480, EA(3m)
+AltWgs84 -19.5 m, EA(6m)
+Hdg 298 deg, Spd 2.9 m/s
+EA(52.8 deg, 6.8 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf3744db</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>87.3235479866822,22.3164809041556,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>9
+UTC 19-04-2026 05:35:45.42
+GpsMilliseconds 1460612163418
+22.3164472,87.3235217, EA(3m)
+AltWgs84 -7.1 m, EA(7m)
+Hdg 292 deg, Spd 2.9 m/s
+EA(49.6 deg, 17.3 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf3744db</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>87.3235216644632,22.3164471572897,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>10
+UTC 19-04-2026 05:35:47.80
+GpsMilliseconds 1460612165796
+22.3164336,87.3233323, EA(3m)
+AltWgs84 -8.2 m, EA(7m)
+Hdg 300 deg, Spd 3.0 m/s
+EA(55.6 deg, 3.7 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf3744db</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>87.3233323152695,22.3164335538634,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>11
+UTC 19-04-2026 05:35:48.74
+GpsMilliseconds 1460612166744
+22.3164665,87.3233275, EA(4m)
+AltWgs84 -3.9 m, EA(9m)
+Hdg 296 deg, Spd 3.4 m/s
+EA(40.6 deg, 3.6 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf3744db</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>87.3233275216401,22.3164664538856,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>12
+UTC 19-04-2026 05:35:49.75
+GpsMilliseconds 1460612167754
+22.3164966,87.3235264, EA(4m)
+AltWgs84 29.4 m, EA(9m)
+Hdg 300 deg, Spd 2.8 m/s
+EA(54.8 deg, 6.4 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf3744db</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>87.3235263686873,22.3164966426623,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>13
+UTC 19-04-2026 05:35:50.76
+GpsMilliseconds 1460612168764
+22.3165213,87.3234317, EA(4m)
+AltWgs84 7.8 m, EA(10m)
+Hdg 307 deg, Spd 3.4 m/s
+EA(21.7 deg, 10.4 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf3744db</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>87.3234317012538,22.3165213294397,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>14
+UTC 19-04-2026 05:35:51.76
+GpsMilliseconds 1460612169759
+22.3166427,87.3234607, EA(4m)
+AltWgs84 3.4 m, EA(10m)
+Hdg 298 deg, Spd 3.8 m/s
+EA(29.8 deg, 12.9 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf3744db</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>87.3234606706562,22.3166427199411,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>15
+UTC 19-04-2026 05:35:52.77
+GpsMilliseconds 1460612170766
+22.3166282,87.3234399, EA(4m)
+AltWgs84 41.6 m, EA(7m)
+Hdg 278 deg, Spd 4.3 m/s
+EA(37.8 deg, 42.8 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf3744db</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>87.323439869911,22.3166282041698,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>16
+UTC 19-04-2026 05:35:53.75
+GpsMilliseconds 1460612171746
+22.3163625,87.3232464, EA(3m)
+AltWgs84 51.8 m, EA(8m)
+Hdg 303 deg, Spd 3.6 m/s
+EA(78.1 deg, 11.3 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf3744db</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>87.3232463985574,22.3163625464423,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>17
+UTC 19-04-2026 05:35:55.67
+GpsMilliseconds 1460612173668
+22.3166932,87.3233539, EA(4m)
+AltWgs84 -2.7 m, EA(7m)
+Hdg 306 deg, Spd 3.3 m/s
+EA(65.5 deg, 25.1 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf3744db</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>87.3233538862061,22.3166931514473,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>18
+UTC 19-04-2026 05:35:56.56
+GpsMilliseconds 1460612174557
+22.3165843,87.3233057, EA(3m)
+AltWgs84 -28.8 m, EA(8m)
+Hdg 299 deg, Spd 3.6 m/s
+EA(36.5 deg, 5.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf3744db</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>87.3233056832149,22.3165842625277,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>19
+UTC 19-04-2026 05:35:58.55
+GpsMilliseconds 1460612176553
+22.3166061,87.3231714, EA(4m)
+AltWgs84 -34.3 m, EA(8m)
+Hdg 284 deg, Spd 3.7 m/s
+EA(67.0 deg, 33.3 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf3744db</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates>87.323171402536,22.3166060927294,0</coordinates>
+      </Point>
+    </Placemark>
+   </Document>
+</kml>
