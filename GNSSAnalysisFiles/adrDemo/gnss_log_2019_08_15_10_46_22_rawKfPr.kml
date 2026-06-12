@@ -1,0 +1,2747 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>gnss_log_2019_08_15_10_46_22_rawKfPr.kml</name>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description> </description>
+      <name>Line 1</name>
+      <Style>
+        <LineStyle>
+          <color>80ffffff</color>
+        </LineStyle>
+      </Style>
+      <LineString>
+        <coordinates> -122.083509013356,37.4153869601359,0 -122.083508621486,37.4153863683116,0 -122.083511751767,37.4153875138854,0 -122.083513676517,37.4153913592164,0 -122.083516677679,37.4153906472366,0 -122.083519301424,37.4153897515747,0 -122.083524354843,37.4153887582748,0 -122.083527920213,37.4153863170514,0 -122.08353417784,37.4153847443206,0 -122.083538166158,37.4153808905145,0 -122.083538656368,37.4153770142196,0 -122.083540253263,37.4153737764023,0 -122.083538914811,37.4153699972504,0 -122.083536387358,37.415367804047,0 -122.08353466072,37.4153666864752,0 -122.08353095926,37.4153678477503,0 -122.083526978299,37.4153685364926,0 -122.083523464099,37.4153702341039,0 -122.083521542337,37.4153729235434,0 -122.083523176192,37.4153762653162,0 -122.083525956582,37.4153767143454,0 -122.083530251887,37.4153748000329,0 -122.083532793966,37.4153739790232,0 -122.083535610914,37.4153752472406,0 -122.083533978309,37.4153767579167,0 -122.083528232916,37.4153787087568,0 -122.083525786608,37.4153765102437,0 -122.083520903935,37.4153757297245,0 -122.083516749506,37.4153755745695,0 -122.083514480787,37.4153742244952,0 -122.083516396038,37.4153713492047,0 -122.083515945102,37.4153678806749,0 -122.083513606323,37.4153659151264,0 -122.083510608367,37.415366996598,0 -122.083505738751,37.4153698316589,0 -122.083503826499,37.4153729149662,0 -122.083507639945,37.4153748830301,0 -122.0835111753,37.4153754195619,0 -122.083515900999,37.4153752497383,0 -122.083518946867,37.4153742236574,0 -122.083519531542,37.4153715396468,0 -122.083519812464,37.4153687875228,0 -122.083518529209,37.4153655289186,0 -122.083514723886,37.4153640646953,0 -122.083510236793,37.4153654870924,0 -122.083508296992,37.4153682246,0 -122.083507142322,37.4153701078988,0 -122.083505532859,37.4153703709506,0 -122.083503018314,37.4153684550301,0 -122.083499884406,37.4153665604914,0 -122.08349906403,37.4153620894167,0 -122.083494661547,37.4153628161724,0 -122.083493638401,37.4153655886918,0 -122.083490729913,37.4153675480521,0 -122.08349150535,37.4153709398972,0 -122.083493973407,37.415373871372,0 -122.083498118102,37.4153742534351,0 -122.08350156925,37.4153733863615,0 -122.083504059024,37.415372229731,0 -122.083504284134,37.4153698540029,0 -122.08350182332,37.4153672563,0 -122.08349818026,37.415364845818,0 -122.083494977216,37.415364371375,0 -122.083491954335,37.4153668049795,0 -122.083491033015,37.4153693110152,0 -122.083488859957,37.4153711825957,0 -122.08348681645,37.4153718866546,0 -122.083483858218,37.4153720064963,0 -122.083482385009,37.4153698281084,0 -122.083482459788,37.4153655953767,0 -122.083480162702,37.4153668259725,0 -122.083476420148,37.4153694993144,0 -122.083472352472,37.4153741150922,0 -122.083475596871,37.4153760099075,0 -122.083477692948,37.4153776397203,0 -122.083482976066,37.4153766445527,0 -122.083486995045,37.4153758643976,0 -122.083488386384,37.4153734475082,0 -122.083488569678,37.4153704777496,0 -122.083486307786,37.4153687925254,0 -122.083482887993,37.4153666467084,0 -122.083478729996,37.415367795592,0 -122.083474503435,37.4153688827633,0 -122.083472462616,37.4153682914035,0 -122.083474660877,37.4153649043845,0 -122.083479330916,37.4153620406397,0 -122.083484340805,37.4153616656208,0 -122.083487278527,37.4153642446817,0 -122.083488402366,37.4153665390885,0 -122.083485450411,37.415368076668,0 -122.083482537601,37.4153672472166,0 -122.083480483602,37.4153648530745,0 -122.083477140689,37.4153646840351,0 -122.083473768423,37.4153669562937,0 -122.083472397029,37.4153707864978,0 -122.083471367274,37.4153743198521,0 -122.083471369386,37.4153794983804,0 -122.083471706191,37.4153802212239,0 -122.083467686,37.4153800805016,0 -122.08346481789,37.4153804209699,0 -122.083464047211,37.4153827649179,0 -122.083466311235,37.4153840196888,0 -122.083465661796,37.4153876415077,0 -122.083462024609,37.4153881323476,0 -122.083460972914,37.4153839520412,0 -122.083463794523,37.4153799235137,0 -122.083464754675,37.4153752851982,0 -122.083464155533,37.4153700036072,0 -122.083464789462,37.4153679372937,0 -122.083462057853,37.4153706774473,0 -122.083460679434,37.4153730863572,0 -122.083459926854,37.4153755576843,0 -122.083456669954,37.4153771203501,0 -122.083452559668,37.415378363323,0 -122.083449802223,37.4153817982348,0 -122.083455101623,37.4153828229101,0 -122.083459375973,37.4153807772373,0 -122.083462183761,37.4153780123591,0 -122.083461370426,37.415373713586,0 -122.083459236008,37.4153713690678,0 -122.08345643124,37.415369584722,0 -122.083452312236,37.4153704020792,0 -122.083452096063,37.4153727588314,0 -122.083450428993,37.4153755280479,0</coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>1
+UTC 15-08-2019 17:46:24.00
+GpsMilliseconds 1249926402000
+37.4153870,-122.0835090, EA(1m)
+Alt -16.2 m, EA(2m)
+Hdg 192 deg, Spd 0.0 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083509013356,37.4153869601359,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>2
+UTC 15-08-2019 17:46:25.00
+GpsMilliseconds 1249926403000
+37.4153864,-122.0835086, EA(1m)
+Alt -15.7 m, EA(1m)
+Hdg 174 deg, Spd 0.0 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083508621486,37.4153863683116,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>3
+UTC 15-08-2019 17:46:26.00
+GpsMilliseconds 1249926404000
+37.4153875,-122.0835118, EA(1m)
+Alt -15.6 m, EA(1m)
+Hdg 30 deg, Spd 0.1 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083511751767,37.4153875138854,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>4
+UTC 15-08-2019 17:46:27.00
+GpsMilliseconds 1249926405000
+37.4153914,-122.0835137, EA(1m)
+Alt -15.3 m, EA(1m)
+Hdg 211 deg, Spd 0.1 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083513676517,37.4153913592164,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>5
+UTC 15-08-2019 17:46:28.00
+GpsMilliseconds 1249926406000
+37.4153906,-122.0835167, EA(1m)
+Alt -15.1 m, EA(1m)
+Hdg 248 deg, Spd 0.1 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083516677679,37.4153906472366,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>6
+UTC 15-08-2019 17:46:29.00
+GpsMilliseconds 1249926407000
+37.4153898,-122.0835193, EA(1m)
+Alt -15.1 m, EA(1m)
+Hdg 261 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083519301424,37.4153897515747,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>7
+UTC 15-08-2019 17:46:30.00
+GpsMilliseconds 1249926408000
+37.4153888,-122.0835244, EA(1m)
+Alt -14.8 m, EA(1m)
+Hdg 251 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083524354843,37.4153887582748,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>8
+UTC 15-08-2019 17:46:31.00
+GpsMilliseconds 1249926409000
+37.4153863,-122.0835279, EA(1m)
+Alt -14.6 m, EA(1m)
+Hdg 244 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083527920213,37.4153863170514,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>9
+UTC 15-08-2019 17:46:32.00
+GpsMilliseconds 1249926410000
+37.4153847,-122.0835342, EA(1m)
+Alt -14.7 m, EA(1m)
+Hdg 224 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.08353417784,37.4153847443206,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>10
+UTC 15-08-2019 17:46:33.00
+GpsMilliseconds 1249926411000
+37.4153809,-122.0835382, EA(1m)
+Alt -14.5 m, EA(1m)
+Hdg 203 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083538166158,37.4153808905145,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>11
+UTC 15-08-2019 17:46:34.00
+GpsMilliseconds 1249926412000
+37.4153770,-122.0835387, EA(1m)
+Alt -14.3 m, EA(1m)
+Hdg 191 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083538656368,37.4153770142196,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>12
+UTC 15-08-2019 17:46:35.00
+GpsMilliseconds 1249926413000
+37.4153738,-122.0835403, EA(1m)
+Alt -14.4 m, EA(1m)
+Hdg 160 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083540253263,37.4153737764023,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>13
+UTC 15-08-2019 17:46:36.00
+GpsMilliseconds 1249926414000
+37.4153700,-122.0835389, EA(1m)
+Alt -14.2 m, EA(1m)
+Hdg 126 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083538914811,37.4153699972504,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>14
+UTC 15-08-2019 17:46:37.00
+GpsMilliseconds 1249926415000
+37.4153678,-122.0835364, EA(1m)
+Alt -14.2 m, EA(1m)
+Hdg 116 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083536387358,37.415367804047,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>15
+UTC 15-08-2019 17:46:38.00
+GpsMilliseconds 1249926416000
+37.4153667,-122.0835347, EA(1m)
+Alt -14.2 m, EA(1m)
+Hdg 99 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.08353466072,37.4153666864752,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>16
+UTC 15-08-2019 17:46:39.00
+GpsMilliseconds 1249926417000
+37.4153678,-122.0835310, EA(1m)
+Alt -14.2 m, EA(1m)
+Hdg 78 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.08353095926,37.4153678477503,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>17
+UTC 15-08-2019 17:46:40.00
+GpsMilliseconds 1249926418000
+37.4153685,-122.0835270, EA(1m)
+Alt -14.3 m, EA(1m)
+Hdg 55 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083526978299,37.4153685364926,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>18
+UTC 15-08-2019 17:46:41.00
+GpsMilliseconds 1249926419000
+37.4153702,-122.0835235, EA(1m)
+Alt -14.4 m, EA(1m)
+Hdg 30 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083523464099,37.4153702341039,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>19
+UTC 15-08-2019 17:46:42.00
+GpsMilliseconds 1249926420000
+37.4153729,-122.0835215, EA(1m)
+Alt -14.3 m, EA(1m)
+Hdg 0 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083521542337,37.4153729235434,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>20
+UTC 15-08-2019 17:46:43.00
+GpsMilliseconds 1249926421000
+37.4153763,-122.0835232, EA(1m)
+Alt -14.4 m, EA(1m)
+Hdg 291 deg, Spd 0.2 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083523176192,37.4153762653162,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>21
+UTC 15-08-2019 17:46:44.00
+GpsMilliseconds 1249926422000
+37.4153767,-122.0835260, EA(1m)
+Alt -14.4 m, EA(1m)
+Hdg 253 deg, Spd 0.2 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083525956582,37.4153767143454,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>22
+UTC 15-08-2019 17:46:45.00
+GpsMilliseconds 1249926423000
+37.4153748,-122.0835303, EA(1m)
+Alt -14.3 m, EA(1m)
+Hdg 259 deg, Spd 0.2 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083530251887,37.4153748000329,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>23
+UTC 15-08-2019 17:46:46.00
+GpsMilliseconds 1249926424000
+37.4153740,-122.0835328, EA(1m)
+Alt -14.4 m, EA(1m)
+Hdg 288 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083532793966,37.4153739790232,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>24
+UTC 15-08-2019 17:46:47.00
+GpsMilliseconds 1249926425000
+37.4153752,-122.0835356, EA(1m)
+Alt -14.3 m, EA(0m)
+Hdg 358 deg, Spd 0.1 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083535610914,37.4153752472406,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>25
+UTC 15-08-2019 17:46:48.00
+GpsMilliseconds 1249926426000
+37.4153768,-122.0835340, EA(1m)
+Alt -14.2 m, EA(0m)
+Hdg 62 deg, Spd 0.4 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083533978309,37.4153767579167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>26
+UTC 15-08-2019 17:46:49.00
+GpsMilliseconds 1249926427000
+37.4153787,-122.0835282, EA(1m)
+Alt -14.1 m, EA(0m)
+Hdg 127 deg, Spd 0.4 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083528232916,37.4153787087568,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>27
+UTC 15-08-2019 17:46:50.00
+GpsMilliseconds 1249926428000
+37.4153765,-122.0835258, EA(1m)
+Alt -14.2 m, EA(0m)
+Hdg 101 deg, Spd 0.4 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083525786608,37.4153765102437,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>28
+UTC 15-08-2019 17:46:51.00
+GpsMilliseconds 1249926429000
+37.4153757,-122.0835209, EA(1m)
+Alt -14.2 m, EA(0m)
+Hdg 101 deg, Spd 0.4 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083520903935,37.4153757297245,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>29
+UTC 15-08-2019 17:46:52.00
+GpsMilliseconds 1249926430000
+37.4153756,-122.0835167, EA(1m)
+Alt -14.2 m, EA(0m)
+Hdg 122 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083516749506,37.4153755745695,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>30
+UTC 15-08-2019 17:46:53.00
+GpsMilliseconds 1249926431000
+37.4153742,-122.0835145, EA(1m)
+Alt -14.2 m, EA(0m)
+Hdg 200 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083514480787,37.4153742244952,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>31
+UTC 15-08-2019 17:46:54.00
+GpsMilliseconds 1249926432000
+37.4153713,-122.0835164, EA(1m)
+Alt -14.2 m, EA(0m)
+Hdg 177 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083516396038,37.4153713492047,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>32
+UTC 15-08-2019 17:46:55.00
+GpsMilliseconds 1249926433000
+37.4153679,-122.0835159, EA(1m)
+Alt -14.1 m, EA(0m)
+Hdg 138 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083515945102,37.4153678806749,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>33
+UTC 15-08-2019 17:46:56.00
+GpsMilliseconds 1249926434000
+37.4153659,-122.0835136, EA(1m)
+Alt -14.0 m, EA(0m)
+Hdg 77 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083513606323,37.4153659151264,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>34
+UTC 15-08-2019 17:46:57.00
+GpsMilliseconds 1249926435000
+37.4153670,-122.0835106, EA(1m)
+Alt -13.9 m, EA(0m)
+Hdg 52 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083510608367,37.415366996598,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>35
+UTC 15-08-2019 17:46:58.00
+GpsMilliseconds 1249926436000
+37.4153698,-122.0835057, EA(1m)
+Alt -13.8 m, EA(0m)
+Hdg 20 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083505738751,37.4153698316589,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>36
+UTC 15-08-2019 17:46:59.00
+GpsMilliseconds 1249926437000
+37.4153729,-122.0835038, EA(1m)
+Alt -13.8 m, EA(0m)
+Hdg 335 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083503826499,37.4153729149662,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>37
+UTC 15-08-2019 17:47:00.00
+GpsMilliseconds 1249926438000
+37.4153749,-122.0835076, EA(1m)
+Alt -13.9 m, EA(0m)
+Hdg 298 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083507639945,37.4153748830301,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>38
+UTC 15-08-2019 17:47:01.00
+GpsMilliseconds 1249926439000
+37.4153754,-122.0835112, EA(1m)
+Alt -13.8 m, EA(0m)
+Hdg 273 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.0835111753,37.4153754195619,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>39
+UTC 15-08-2019 17:47:02.00
+GpsMilliseconds 1249926440000
+37.4153752,-122.0835159, EA(1m)
+Alt -13.8 m, EA(0m)
+Hdg 246 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083515900999,37.4153752497383,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>40
+UTC 15-08-2019 17:47:03.00
+GpsMilliseconds 1249926441000
+37.4153742,-122.0835189, EA(1m)
+Alt -13.8 m, EA(0m)
+Hdg 203 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083518946867,37.4153742236574,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>41
+UTC 15-08-2019 17:47:04.00
+GpsMilliseconds 1249926442000
+37.4153715,-122.0835195, EA(1m)
+Alt -13.7 m, EA(0m)
+Hdg 185 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083519531542,37.4153715396468,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>42
+UTC 15-08-2019 17:47:05.00
+GpsMilliseconds 1249926443000
+37.4153688,-122.0835198, EA(1m)
+Alt -13.7 m, EA(0m)
+Hdg 139 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083519812464,37.4153687875228,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>43
+UTC 15-08-2019 17:47:06.00
+GpsMilliseconds 1249926444000
+37.4153655,-122.0835185, EA(1m)
+Alt -13.7 m, EA(0m)
+Hdg 116 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083518529209,37.4153655289186,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>44
+UTC 15-08-2019 17:47:07.00
+GpsMilliseconds 1249926445000
+37.4153641,-122.0835147, EA(1m)
+Alt -13.6 m, EA(0m)
+Hdg 84 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083514723886,37.4153640646953,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>45
+UTC 15-08-2019 17:47:08.00
+GpsMilliseconds 1249926446000
+37.4153655,-122.0835102, EA(1m)
+Alt -13.6 m, EA(0m)
+Hdg 50 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083510236793,37.4153654870924,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>46
+UTC 15-08-2019 17:47:09.00
+GpsMilliseconds 1249926447000
+37.4153682,-122.0835083, EA(1m)
+Alt -13.7 m, EA(0m)
+Hdg 16 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083508296992,37.4153682246,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>47
+UTC 15-08-2019 17:47:10.00
+GpsMilliseconds 1249926448000
+37.4153701,-122.0835071, EA(1m)
+Alt -13.7 m, EA(0m)
+Hdg 78 deg, Spd 0.2 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083507142322,37.4153701078988,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>48
+UTC 15-08-2019 17:47:11.00
+GpsMilliseconds 1249926449000
+37.4153704,-122.0835055, EA(1m)
+Alt -13.7 m, EA(0m)
+Hdg 125 deg, Spd 0.2 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083505532859,37.4153703709506,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>49
+UTC 15-08-2019 17:47:12.00
+GpsMilliseconds 1249926450000
+37.4153685,-122.0835030, EA(1m)
+Alt -13.8 m, EA(0m)
+Hdg 127 deg, Spd 0.2 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083503018314,37.4153684550301,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>50
+UTC 15-08-2019 17:47:13.00
+GpsMilliseconds 1249926451000
+37.4153666,-122.0834999, EA(1m)
+Alt -13.8 m, EA(0m)
+Hdg 170 deg, Spd 0.4 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083499884406,37.4153665604914,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>51
+UTC 15-08-2019 17:47:14.00
+GpsMilliseconds 1249926452000
+37.4153621,-122.0834991, EA(1m)
+Alt -13.8 m, EA(0m)
+Hdg 106 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.08349906403,37.4153620894167,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>52
+UTC 15-08-2019 17:47:15.00
+GpsMilliseconds 1249926453000
+37.4153628,-122.0834947, EA(1m)
+Alt -13.7 m, EA(0m)
+Hdg 67 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083494661547,37.4153628161724,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>53
+UTC 15-08-2019 17:47:16.00
+GpsMilliseconds 1249926454000
+37.4153656,-122.0834936, EA(1m)
+Alt -13.7 m, EA(0m)
+Hdg 19 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083493638401,37.4153655886918,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>54
+UTC 15-08-2019 17:47:17.00
+GpsMilliseconds 1249926455000
+37.4153675,-122.0834907, EA(1m)
+Alt -13.7 m, EA(0m)
+Hdg 349 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083490729913,37.4153675480521,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>55
+UTC 15-08-2019 17:47:18.00
+GpsMilliseconds 1249926456000
+37.4153709,-122.0834915, EA(1m)
+Alt -13.7 m, EA(0m)
+Hdg 318 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.08349150535,37.4153709398972,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>56
+UTC 15-08-2019 17:47:19.00
+GpsMilliseconds 1249926457000
+37.4153739,-122.0834940, EA(1m)
+Alt -13.6 m, EA(0m)
+Hdg 282 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083493973407,37.415373871372,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>57
+UTC 15-08-2019 17:47:20.00
+GpsMilliseconds 1249926458000
+37.4153743,-122.0834981, EA(1m)
+Alt -13.6 m, EA(0m)
+Hdg 251 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083498118102,37.4153742534351,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>58
+UTC 15-08-2019 17:47:21.00
+GpsMilliseconds 1249926459000
+37.4153734,-122.0835016, EA(1m)
+Alt -13.6 m, EA(0m)
+Hdg 216 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.08350156925,37.4153733863615,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>59
+UTC 15-08-2019 17:47:22.00
+GpsMilliseconds 1249926460000
+37.4153722,-122.0835041, EA(1m)
+Alt -13.5 m, EA(0m)
+Hdg 186 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083504059024,37.415372229731,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>60
+UTC 15-08-2019 17:47:23.00
+GpsMilliseconds 1249926461000
+37.4153699,-122.0835043, EA(1m)
+Alt -13.5 m, EA(0m)
+Hdg 160 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083504284134,37.4153698540029,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>61
+UTC 15-08-2019 17:47:24.00
+GpsMilliseconds 1249926462000
+37.4153673,-122.0835018, EA(1m)
+Alt -13.5 m, EA(0m)
+Hdg 130 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.08350182332,37.4153672563,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>62
+UTC 15-08-2019 17:47:25.00
+GpsMilliseconds 1249926463000
+37.4153648,-122.0834982, EA(1m)
+Alt -13.5 m, EA(0m)
+Hdg 98 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.08349818026,37.415364845818,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>63
+UTC 15-08-2019 17:47:26.00
+GpsMilliseconds 1249926464000
+37.4153644,-122.0834950, EA(1m)
+Alt -13.5 m, EA(0m)
+Hdg 52 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083494977216,37.415364371375,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>64
+UTC 15-08-2019 17:47:27.00
+GpsMilliseconds 1249926465000
+37.4153668,-122.0834920, EA(1m)
+Alt -13.4 m, EA(0m)
+Hdg 37 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083491954335,37.4153668049795,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>65
+UTC 15-08-2019 17:47:28.00
+GpsMilliseconds 1249926466000
+37.4153693,-122.0834910, EA(1m)
+Alt -13.4 m, EA(0m)
+Hdg 49 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083491033015,37.4153693110152,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>66
+UTC 15-08-2019 17:47:29.00
+GpsMilliseconds 1249926467000
+37.4153712,-122.0834889, EA(1m)
+Alt -13.5 m, EA(0m)
+Hdg 92 deg, Spd 0.2 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083488859957,37.4153711825957,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>67
+UTC 15-08-2019 17:47:30.00
+GpsMilliseconds 1249926468000
+37.4153719,-122.0834868, EA(1m)
+Alt -13.5 m, EA(0m)
+Hdg 109 deg, Spd 0.2 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.08348681645,37.4153718866546,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>68
+UTC 15-08-2019 17:47:31.00
+GpsMilliseconds 1249926469000
+37.4153720,-122.0834839, EA(1m)
+Alt -13.5 m, EA(0m)
+Hdg 155 deg, Spd 0.2 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083483858218,37.4153720064963,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>69
+UTC 15-08-2019 17:47:32.00
+GpsMilliseconds 1249926470000
+37.4153698,-122.0834824, EA(1m)
+Alt -13.5 m, EA(0m)
+Hdg 167 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083482385009,37.4153698281084,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>70
+UTC 15-08-2019 17:47:33.00
+GpsMilliseconds 1249926471000
+37.4153656,-122.0834825, EA(1m)
+Alt -13.5 m, EA(0m)
+Hdg 106 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083482459788,37.4153655953767,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>71
+UTC 15-08-2019 17:47:34.00
+GpsMilliseconds 1249926472000
+37.4153668,-122.0834802, EA(1m)
+Alt -13.5 m, EA(0m)
+Hdg 52 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083480162702,37.4153668259725,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>72
+UTC 15-08-2019 17:47:35.00
+GpsMilliseconds 1249926473000
+37.4153695,-122.0834764, EA(1m)
+Alt -13.5 m, EA(0m)
+Hdg 16 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083476420148,37.4153694993144,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>73
+UTC 15-08-2019 17:47:36.00
+GpsMilliseconds 1249926474000
+37.4153741,-122.0834724, EA(1m)
+Alt -13.4 m, EA(0m)
+Hdg 345 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083472352472,37.4153741150922,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>74
+UTC 15-08-2019 17:47:37.00
+GpsMilliseconds 1249926475000
+37.4153760,-122.0834756, EA(1m)
+Alt -13.5 m, EA(0m)
+Hdg 304 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083475596871,37.4153760099075,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>75
+UTC 15-08-2019 17:47:38.00
+GpsMilliseconds 1249926476000
+37.4153776,-122.0834777, EA(1m)
+Alt -13.5 m, EA(0m)
+Hdg 273 deg, Spd 0.4 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083477692948,37.4153776397203,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>76
+UTC 15-08-2019 17:47:39.00
+GpsMilliseconds 1249926477000
+37.4153766,-122.0834830, EA(1m)
+Alt -13.4 m, EA(0m)
+Hdg 242 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083482976066,37.4153766445527,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>77
+UTC 15-08-2019 17:47:40.00
+GpsMilliseconds 1249926478000
+37.4153759,-122.0834870, EA(1m)
+Alt -13.4 m, EA(0m)
+Hdg 213 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083486995045,37.4153758643976,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>78
+UTC 15-08-2019 17:47:41.00
+GpsMilliseconds 1249926479000
+37.4153734,-122.0834884, EA(1m)
+Alt -13.4 m, EA(0m)
+Hdg 177 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083488386384,37.4153734475082,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>79
+UTC 15-08-2019 17:47:42.00
+GpsMilliseconds 1249926480000
+37.4153705,-122.0834886, EA(1m)
+Alt -13.4 m, EA(0m)
+Hdg 141 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083488569678,37.4153704777496,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>80
+UTC 15-08-2019 17:47:43.00
+GpsMilliseconds 1249926481000
+37.4153688,-122.0834863, EA(1m)
+Alt -13.4 m, EA(0m)
+Hdg 128 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083486307786,37.4153687925254,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>81
+UTC 15-08-2019 17:47:44.00
+GpsMilliseconds 1249926482000
+37.4153666,-122.0834829, EA(1m)
+Alt -13.4 m, EA(0m)
+Hdg 92 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083482887993,37.4153666467084,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>82
+UTC 15-08-2019 17:47:45.00
+GpsMilliseconds 1249926483000
+37.4153678,-122.0834787, EA(1m)
+Alt -13.3 m, EA(0m)
+Hdg 62 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083478729996,37.415367795592,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>83
+UTC 15-08-2019 17:47:46.00
+GpsMilliseconds 1249926484000
+37.4153689,-122.0834745, EA(1m)
+Alt -13.3 m, EA(0m)
+Hdg 100 deg, Spd 0.2 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083474503435,37.4153688827633,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>84
+UTC 15-08-2019 17:47:47.00
+GpsMilliseconds 1249926485000
+37.4153683,-122.0834725, EA(1m)
+Alt -13.3 m, EA(0m)
+Hdg 191 deg, Spd 0.4 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083472462616,37.4153682914035,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>85
+UTC 15-08-2019 17:47:48.00
+GpsMilliseconds 1249926486000
+37.4153649,-122.0834747, EA(1m)
+Alt -13.4 m, EA(0m)
+Hdg 225 deg, Spd 0.4 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083474660877,37.4153649043845,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>86
+UTC 15-08-2019 17:47:49.00
+GpsMilliseconds 1249926487000
+37.4153620,-122.0834793, EA(1m)
+Alt -13.3 m, EA(0m)
+Hdg 272 deg, Spd 0.4 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083479330916,37.4153620406397,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>87
+UTC 15-08-2019 17:47:50.00
+GpsMilliseconds 1249926488000
+37.4153617,-122.0834843, EA(1m)
+Alt -13.3 m, EA(0m)
+Hdg 303 deg, Spd 0.4 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083484340805,37.4153616656208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>88
+UTC 15-08-2019 17:47:51.00
+GpsMilliseconds 1249926489000
+37.4153642,-122.0834873, EA(1m)
+Alt -13.2 m, EA(0m)
+Hdg 330 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083487278527,37.4153642446817,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>89
+UTC 15-08-2019 17:47:52.00
+GpsMilliseconds 1249926490000
+37.4153665,-122.0834884, EA(1m)
+Alt -13.2 m, EA(0m)
+Hdg 39 deg, Spd 0.2 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083488402366,37.4153665390885,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>90
+UTC 15-08-2019 17:47:53.00
+GpsMilliseconds 1249926491000
+37.4153681,-122.0834855, EA(1m)
+Alt -13.2 m, EA(0m)
+Hdg 123 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083485450411,37.415368076668,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>91
+UTC 15-08-2019 17:47:54.00
+GpsMilliseconds 1249926492000
+37.4153672,-122.0834825, EA(1m)
+Alt -13.2 m, EA(0m)
+Hdg 139 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083482537601,37.4153672472166,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>92
+UTC 15-08-2019 17:47:55.00
+GpsMilliseconds 1249926493000
+37.4153649,-122.0834805, EA(1m)
+Alt -13.2 m, EA(0m)
+Hdg 94 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083480483602,37.4153648530745,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>93
+UTC 15-08-2019 17:47:56.00
+GpsMilliseconds 1249926494000
+37.4153647,-122.0834771, EA(1m)
+Alt -13.2 m, EA(0m)
+Hdg 46 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083477140689,37.4153646840351,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>94
+UTC 15-08-2019 17:47:57.00
+GpsMilliseconds 1249926495000
+37.4153670,-122.0834738, EA(1m)
+Alt -13.2 m, EA(0m)
+Hdg 358 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083473768423,37.4153669562937,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>95
+UTC 15-08-2019 17:47:58.00
+GpsMilliseconds 1249926496000
+37.4153708,-122.0834724, EA(1m)
+Alt -13.2 m, EA(0m)
+Hdg 355 deg, Spd 0.4 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083472397029,37.4153707864978,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>96
+UTC 15-08-2019 17:47:59.00
+GpsMilliseconds 1249926497000
+37.4153743,-122.0834714, EA(1m)
+Alt -13.2 m, EA(0m)
+Hdg 5 deg, Spd 0.4 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083471367274,37.4153743198521,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>97
+UTC 15-08-2019 17:48:00.00
+GpsMilliseconds 1249926498000
+37.4153795,-122.0834714, EA(1m)
+Alt -13.2 m, EA(0m)
+Hdg 21 deg, Spd 0.2 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083471369386,37.4153794983804,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>98
+UTC 15-08-2019 17:48:01.00
+GpsMilliseconds 1249926499000
+37.4153802,-122.0834717, EA(1m)
+Alt -13.2 m, EA(0m)
+Hdg 100 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083471706191,37.4153802212239,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>99
+UTC 15-08-2019 17:48:02.00
+GpsMilliseconds 1249926500000
+37.4153801,-122.0834677, EA(1m)
+Alt -13.2 m, EA(0m)
+Hdg 112 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083467686,37.4153800805016,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>100
+UTC 15-08-2019 17:48:03.00
+GpsMilliseconds 1249926501000
+37.4153804,-122.0834648, EA(1m)
+Alt -13.2 m, EA(0m)
+Hdg 47 deg, Spd 0.2 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.08346481789,37.4153804209699,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>101
+UTC 15-08-2019 17:48:04.00
+GpsMilliseconds 1249926502000
+37.4153828,-122.0834640, EA(1m)
+Alt -13.1 m, EA(0m)
+Hdg 307 deg, Spd 0.2 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083464047211,37.4153827649179,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>102
+UTC 15-08-2019 17:48:05.00
+GpsMilliseconds 1249926503000
+37.4153840,-122.0834663, EA(1m)
+Alt -13.1 m, EA(0m)
+Hdg 8 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083466311235,37.4153840196888,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>103
+UTC 15-08-2019 17:48:06.00
+GpsMilliseconds 1249926504000
+37.4153876,-122.0834657, EA(1m)
+Alt -13.1 m, EA(0m)
+Hdg 75 deg, Spd 0.2 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083465661796,37.4153876415077,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>104
+UTC 15-08-2019 17:48:07.00
+GpsMilliseconds 1249926505000
+37.4153881,-122.0834620, EA(1m)
+Alt -13.1 m, EA(0m)
+Hdg 177 deg, Spd 0.4 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083462024609,37.4153881323476,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>105
+UTC 15-08-2019 17:48:08.00
+GpsMilliseconds 1249926506000
+37.4153840,-122.0834610, EA(1m)
+Alt -13.1 m, EA(0m)
+Hdg 207 deg, Spd 0.5 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083460972914,37.4153839520412,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>106
+UTC 15-08-2019 17:48:09.00
+GpsMilliseconds 1249926507000
+37.4153799,-122.0834638, EA(1m)
+Alt -13.1 m, EA(0m)
+Hdg 195 deg, Spd 0.4 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083463794523,37.4153799235137,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>107
+UTC 15-08-2019 17:48:10.00
+GpsMilliseconds 1249926508000
+37.4153753,-122.0834648, EA(1m)
+Alt -13.1 m, EA(0m)
+Hdg 180 deg, Spd 0.5 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083464754675,37.4153752851982,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>108
+UTC 15-08-2019 17:48:11.00
+GpsMilliseconds 1249926509000
+37.4153700,-122.0834642, EA(1m)
+Alt -13.0 m, EA(0m)
+Hdg 166 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083464155533,37.4153700036072,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>109
+UTC 15-08-2019 17:48:12.00
+GpsMilliseconds 1249926510000
+37.4153679,-122.0834648, EA(1m)
+Alt -13.0 m, EA(0m)
+Hdg 43 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083464789462,37.4153679372937,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>110
+UTC 15-08-2019 17:48:13.00
+GpsMilliseconds 1249926511000
+37.4153707,-122.0834621, EA(1m)
+Alt -13.0 m, EA(0m)
+Hdg 28 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083462057853,37.4153706774473,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>111
+UTC 15-08-2019 17:48:14.00
+GpsMilliseconds 1249926512000
+37.4153731,-122.0834607, EA(1m)
+Alt -12.9 m, EA(0m)
+Hdg 63 deg, Spd 0.2 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083460679434,37.4153730863572,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>112
+UTC 15-08-2019 17:48:15.00
+GpsMilliseconds 1249926513000
+37.4153756,-122.0834599, EA(1m)
+Alt -12.9 m, EA(0m)
+Hdg 77 deg, Spd 0.2 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083459926854,37.4153755576843,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>113
+UTC 15-08-2019 17:48:16.00
+GpsMilliseconds 1249926514000
+37.4153771,-122.0834567, EA(1m)
+Alt -12.9 m, EA(0m)
+Hdg 68 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083456669954,37.4153771203501,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>114
+UTC 15-08-2019 17:48:17.00
+GpsMilliseconds 1249926515000
+37.4153784,-122.0834526, EA(1m)
+Alt -12.9 m, EA(0m)
+Hdg 40 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083452559668,37.415378363323,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>115
+UTC 15-08-2019 17:48:18.00
+GpsMilliseconds 1249926516000
+37.4153818,-122.0834498, EA(1m)
+Alt -12.9 m, EA(0m)
+Hdg 296 deg, Spd 0.4 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083449802223,37.4153817982348,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>116
+UTC 15-08-2019 17:48:19.00
+GpsMilliseconds 1249926517000
+37.4153828,-122.0834551, EA(1m)
+Alt -12.9 m, EA(0m)
+Hdg 252 deg, Spd 0.4 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083455101623,37.4153828229101,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>117
+UTC 15-08-2019 17:48:20.00
+GpsMilliseconds 1249926518000
+37.4153808,-122.0834594, EA(1m)
+Alt -12.9 m, EA(0m)
+Hdg 221 deg, Spd 0.4 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083459375973,37.4153807772373,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>118
+UTC 15-08-2019 17:48:21.00
+GpsMilliseconds 1249926519000
+37.4153780,-122.0834622, EA(1m)
+Alt -12.9 m, EA(0m)
+Hdg 176 deg, Spd 0.4 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083462183761,37.4153780123591,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>119
+UTC 15-08-2019 17:48:22.00
+GpsMilliseconds 1249926520000
+37.4153737,-122.0834614, EA(1m)
+Alt -12.9 m, EA(0m)
+Hdg 152 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083461370426,37.415373713586,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>120
+UTC 15-08-2019 17:48:23.00
+GpsMilliseconds 1249926521000
+37.4153714,-122.0834592, EA(1m)
+Alt -12.8 m, EA(0m)
+Hdg 116 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083459236008,37.4153713690678,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>121
+UTC 15-08-2019 17:48:24.00
+GpsMilliseconds 1249926522000
+37.4153696,-122.0834564, EA(1m)
+Alt -12.8 m, EA(0m)
+Hdg 82 deg, Spd 0.4 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.08345643124,37.415369584722,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>122
+UTC 15-08-2019 17:48:25.00
+GpsMilliseconds 1249926523000
+37.4153704,-122.0834523, EA(1m)
+Alt -12.8 m, EA(0m)
+Hdg 50 deg, Spd 0.3 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083452312236,37.4153704020792,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>123
+UTC 15-08-2019 17:48:26.00
+GpsMilliseconds 1249926524000
+37.4153728,-122.0834521, EA(1m)
+Alt -12.8 m, EA(0m)
+Hdg 48 deg, Spd 0.2 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083452096063,37.4153727588314,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>124
+UTC 15-08-2019 17:48:27.00
+GpsMilliseconds 1249926525000
+37.4153755,-122.0834504, EA(1m)
+Alt -12.8 m, EA(0m)
+Hdg 78 deg, Spd 0.0 m/s
+EA(45.0 deg, 0.0 m/s)</description>
+      <Style>
+        <IconStyle>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/shaded_dot.png</href>
+          </Icon>
+          <scale>0.6</scale>
+          <color>bf00a0f4</color>
+        </IconStyle>
+      </Style>
+      <Point>
+        <coordinates>-122.083450428993,37.4153755280479,0</coordinates>
+      </Point>
+    </Placemark>
+   </Document>
+</kml>
